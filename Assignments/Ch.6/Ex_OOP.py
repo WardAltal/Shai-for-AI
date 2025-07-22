@@ -90,7 +90,7 @@ class Car:
     def get_speed(self):
         return self.__speed
 
-# Example usage (optional for testing)
+# Example usage
 
 if __name__ == "__main__":
     print("--- Task 1 & 2 ---")
